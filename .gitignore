@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Safety backups
+*.bak
+*.backup
+
+# Temporary output and test files
+output/tmp_*
+output/*.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
